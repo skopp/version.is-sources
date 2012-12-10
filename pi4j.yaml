@@ -1,4 +1,4 @@
-backbone:
+pi4j:
   name: Pi4J
   website: http://www.pi4j.com
   handler: 
