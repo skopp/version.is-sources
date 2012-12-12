@@ -1,0 +1,6 @@
+cakephp:
+  name: CakePHP
+  website: http://cakephp.org/
+  handler:
+    type: bytags
+    repo: cakephp/cakephp
