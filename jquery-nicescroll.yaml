@@ -1,0 +1,6 @@
+jquery-nicescroll:
+  name: jQuery NiceScroll
+  website: http://areaaperta.com/nicescroll/
+  handler:
+    type: bytags
+    repo: inuyaksa/jquery.nicescroll
