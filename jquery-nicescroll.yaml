@@ -5,4 +5,3 @@ handler:
     type: byjsonfile
     repo: inuyaksa/jquery.nicescroll
     file: package.json
-	
