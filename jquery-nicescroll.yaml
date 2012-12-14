@@ -1,7 +1,7 @@
 jquery-nicescroll:
   name: jQuery NiceScroll
   website: http://areaaperta.com/nicescroll/
-handler:
+  handler:
     type: byjsonfile
     repo: inuyaksa/jquery.nicescroll
     file: package.json
