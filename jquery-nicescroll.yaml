@@ -3,5 +3,6 @@ jquery-nicescroll:
   website: http://areaaperta.com/nicescroll/
   handler:
     type: byjsonfile
-    repo: inuyaksa/jquery.nicescroll
+    #repo: inuyaksa/jquery.nicescroll
+    repo: gustavnikolaj/jquery.nicescroll
     file: package.json
