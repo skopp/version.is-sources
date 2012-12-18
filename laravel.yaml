@@ -1,0 +1,6 @@
+laravel:
+  name: Laravel
+  website: http://laravel.com/
+  handler:
+    type: bytags
+    repo: laravel/laravel

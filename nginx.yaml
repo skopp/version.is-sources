@@ -1,0 +1,6 @@
+nginx:
+  name: nginx
+  website: http://nginx.org
+  handler:
+    type: bytags
+    repo: git-mirror/nginx

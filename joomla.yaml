@@ -1,0 +1,6 @@
+joomla:
+  name: Joomla
+  website: http://www.joomla.org/
+  handler:
+    type: bytags
+    repo: joomla/joomla-cms
